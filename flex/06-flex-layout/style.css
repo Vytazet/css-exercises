@@ -34,6 +34,7 @@ ul{
   display: flex;
   list-style-type: none;
   padding: 0;
+  margin: 0;
   gap: 16px;
 }
 
@@ -46,8 +47,7 @@ a{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 32px;
-  padding: 8px;
+  padding: 16px;
 }
 
 .footer {
