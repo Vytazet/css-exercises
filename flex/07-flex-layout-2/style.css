@@ -15,7 +15,7 @@ body {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  padding-left: 16px;
+  padding: 0 16px;
 }
 
 .footer {
@@ -68,5 +68,5 @@ ul{
   flex: 2 1 auto;
   padding: 48px;
   flex-wrap: wrap;
-  gap: 48px;
+  gap: 32px;
 }
